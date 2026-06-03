@@ -1,0 +1,16 @@
+
+- buscar linha, por id e nome
+-visualizar trajeto da linha e seu sentido
+-avisar quando tiver pouco saldo
+-buscar posição do ônibus
+-atualizar a posição de ônibus
+-processar recarga e retorna mensagem se deu certo
+-registrar movimentação
+-lista movimentações
+-registrar a utilização 
+-regra de negocio para validar se deu certo
+-salva o uso no histórico
+-listar movimentação por dia/período
+-debilitar passagem
+-previsão de chegada no ponto
+-mostrar ônibus que estão "ativados"/andando
